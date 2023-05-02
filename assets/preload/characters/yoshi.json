@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				68,
+				-109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Yoshi Idle"
+		},
+		{
+			"offsets": [
+				141,
+				-157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Yoshi Right"
+		},
+		{
+			"offsets": [
+				80,
+				-158
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Yoshi Down"
+		},
+		{
+			"offsets": [
+				74,
+				-65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Yoshi Left"
+		},
+		{
+			"offsets": [
+				69,
+				-143
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Yoshi UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yoshi_Assets",
+	"position": [
+		20,
+		0
+	],
+	"healthicon": "yoshi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		102
+	],
+	"camera_position": [
+		80,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
